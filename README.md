@@ -1,8 +1,5 @@
 # learn_words
-A program to work on memorizing lists of words. (for example : learning lists of words of a new language)
-
-## Steps finished.
+A program to work on memorizing lists of words. For example,
+it can be used to learn words from a new language.
 
 ## To do.
-
-## To commit.
