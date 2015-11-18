@@ -2,7 +2,7 @@ from window import Window
 from startpage import Startpage
 from tkinter import *
 
-window = Window("Learn words", 500, 500)
+window = Window("Learn words")
 
 startpage = Startpage(window)
 
