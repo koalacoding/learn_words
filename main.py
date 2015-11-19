@@ -1,5 +1,5 @@
-from window import Window
-from startpage import Startpage
+from Window import Window
+from Startpage import Startpage
 from tkinter import *
 
 window = Window("Learn words")
